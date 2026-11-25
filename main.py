@@ -7,7 +7,7 @@ Stdlib only, no network, deterministic.
 
 import os
 
-LINE = "Are you gradient descent? Because every step I take only pulls me closer to you."
+LINE = "Are you gradient descent? Because no matter where I start, I always end up falling for you."
 
 OUTPUT_PATH = os.environ.get("OUTPUT_PATH", "/output/entry.txt")
 
